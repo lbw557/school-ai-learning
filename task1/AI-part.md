@@ -26,5 +26,5 @@ https://chatgpt.com/share/6aef769a-9924-83ee-b04f-8c2c90f3b319
 
 https://chatgpt.com/share/6aef814d-0d90-83e8-9b18-1fb70d39d470
 
-编写pdf（agent）：![codex](D:\work\school-ai-learning\task1\codex.png)
+编写pdf（agent）：![codex](.\codex.png)
 
