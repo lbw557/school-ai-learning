@@ -31,11 +31,11 @@ typing_extensions==4.16.0
 
 克隆项目：
 
-    git clone <项目地址>
+    git clone https://github.com/lbw557/school-ai-learning.git
 
 进入项目目录：
 
-    cd async-http-aggregator
+    cd task1\python
 
 创建虚拟环境：
 
